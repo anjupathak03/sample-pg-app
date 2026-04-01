@@ -26,7 +26,3 @@ kubectl apply -f k8s.yaml
 ```
 
 The deployment uses **2 replicas** so Keploy records 2 test-sets (one per pod).
-
-## Related issue
-
-https://github.com/keploy/k8s-proxy/issues/234
